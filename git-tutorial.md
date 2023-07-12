@@ -30,3 +30,7 @@ Gitリポジトリが適切に初期化されたことを確認する。作業�
 git rmによって削除されたファイルの復旧
 - git revert
 変更をコミットした後に、直前のコミットに戻す。
+
+#git flow
+https://docs.github.com/ja/get-started/quickstart/github-flow
+↑作業途中です。

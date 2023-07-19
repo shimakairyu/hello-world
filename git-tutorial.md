@@ -31,6 +31,15 @@ git rmによって削除されたファイルの復旧
 - git revert
 変更をコミットした後に、直前のコミットに戻す。
 
-#git flow
-https://docs.github.com/ja/get-started/quickstart/github-flow
-↑作業途中です。
+# git flow
+gitフローとは、チームでGitを使う際に役立つ運用方法をまとめたツールのことである。<br>
+
+Gitフローには、次の5つの主要なブランチが存在する：
+
+1.マスターブランチ（master）
+2.開発ブランチ（develop）
+3.トピックブランチ（featureブランチ）
+4.リリースブランチ（releaseブランチ）
+5.ホットフィックスブランチ（hotfixブランチ）
+
+このようなブランチ戦略を用いることで、開発を効率的かつ安全に進めることが出来る。

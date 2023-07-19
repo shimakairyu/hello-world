@@ -2,4 +2,4 @@
 2023/7/4
 git/github 演習
 
-https://github.com/shimakairyu/hello-world/issues/3
+[チュートリアル] https://github.com/shimakairyu/hello-world/blob/main/git-tutorial.md
